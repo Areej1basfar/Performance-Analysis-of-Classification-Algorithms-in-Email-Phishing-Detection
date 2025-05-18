@@ -18,6 +18,8 @@ This project presents a comparative analysis of multiple machine learning classi
 <br>
 -Naive Bayes (Categorical)
 
+📊 Results<br>
+Each model's accuracy and classification report were evaluated using balanced training data and standardized test features. The best performance was achieved by ANN and SVM, with accuracies exceeding 98%.
 
 
 
